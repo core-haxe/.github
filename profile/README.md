@@ -1,4 +1,4 @@
-_Note: all these repos are current considered "work in progress"_
+_Note: all these repos are currently considered "work in progress"_
 
 <h4>Database</h4>
 
