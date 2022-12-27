@@ -13,7 +13,7 @@ _Note: all these repos are currently considered "work in progress"_
 <h4>Communication</h4>
 
 - [__http__](https://github.com/core-haxe/http) - flexible http client supporting different http providers
-- __rest__ - rest client supporting fully typed rest operations
+- [__rest__](https://github.com/core-haxe/rest) - rest client supporting fully typed rest operations
 
 <h4>Messaging</h4>
 
