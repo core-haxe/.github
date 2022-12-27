@@ -6,8 +6,8 @@ _Note: all these repos are currently considered "work in progress"_
 - __sqlite__ - sqlite for all relevant haxe targets
 - __mysql__ - mysql for all relevant haxe targets
 - __db-core__ - pluggable database abstraction
-- __db-sqlite__ - sqlite database plugin for __db-core__
-- __db-mysql__ - mysql database plugin for __db-core__
+  - __db-sqlite__ - sqlite database plugin for __db-core__
+  - __db-mysql__ - mysql database plugin for __db-core__
 - __entities__ - entity database system for ORM
 
 <h4>Communication</h4>
