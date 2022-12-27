@@ -26,5 +26,5 @@ _Note: all these repos are currently considered "work in progress"_
 
 <h4>Utilities</h4>
 
-- __logging__ - flexible logging framework supporting various "adaptors"
+- [__logging__](https://github.com/core-haxe/logging) - flexible logging framework supporting various "adaptors"
 - [__promises__](https://github.com/core-haxe/promises) - promise lib (literally a typedef for thenshim currently)
