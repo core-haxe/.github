@@ -5,7 +5,7 @@ _Note: all these repos are currently considered "work in progress"_
 - __libsqlite3__ - sqlite3 externs for hxcpp
 - __sqlite__ - sqlite for all relevant haxe targets
 - __mysql__ - mysql for all relevant haxe targets
-- __db-core__ - plugable database abstraction
+- __db-core__ - pluggable database abstraction
 - __db-sqlite__ - sqlite database plugin for __db-core__
 - __db-mysql__ - mysql database plugin for __db-core__
 - __entities__ - entity database system for ORM
@@ -18,7 +18,7 @@ _Note: all these repos are currently considered "work in progress"_
 <h4>Messaging</h4>
 
 - __rabbitmq__ - rabbitmq for all relevant haxe targets
-- __queues-core__ - plugable queue abstraction
+- [__queues-core__](https://github.com/core-haxe/queues-core) - pluggable queue abstraction
 
 <h4>Services</h4>
 
