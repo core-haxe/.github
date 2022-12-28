@@ -6,7 +6,7 @@ _Note: all these repos are currently considered "work in progress"_
 
 - __db-core__ - pluggable database abstraction
   - __db-sqlite__ - sqlite database plugin for __db-core__
-    - __sqlite__ - sqlite for all relevant haxe targets
+    - __sqlite3__ - sqlite3 for all relevant haxe targets
       - __libsqlite3__ - sqlite3 externs for hxcpp
   - __db-mysql__ - mysql database plugin for __db-core__
     - __mysql__ - mysql for all relevant haxe targets
