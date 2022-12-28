@@ -4,12 +4,12 @@ _Note: all these repos are currently considered "work in progress"_
 
 
 
-- __db-core__ - pluggable database abstraction
-  - __db-sqlite__ - sqlite database plugin for __db-core__
-    - __sqlite3__ - sqlite3 for all relevant haxe targets
-      - __libsqlite3__ - sqlite3 externs for hxcpp
-  - __db-mysql__ - mysql database plugin for __db-core__
-    - __mysql__ - mysql for all relevant haxe targets
+- [__db-core__](https://github.com/core-haxe/db-core) - pluggable database abstraction
+  - [__db-sqlite__](https://github.com/core-haxe/db-sqlite) - sqlite database plugin for [__db-core__](https://github.com/core-haxe/db-core)
+    - [__sqlite3__](https://github.com/core-haxe/sqlite3) - sqlite3 for all relevant haxe targets
+      - [__libsqlite3__](https://github.com/core-haxe/libsqlite3) - sqlite3 externs for hxcpp
+  - [__db-mysql__](https://github.com/core-haxe/db-mysql) - mysql database plugin for [__db-core__](https://github.com/core-haxe/db-core)
+    - [__mysql__](https://github.com/core-haxe/mysql) - mysql for all relevant haxe targets
 - __entities__ - entity database system for ORM
 
 <h4>Communication</h4>
