@@ -16,12 +16,12 @@ _Note: all these repos are currently considered "work in progress"_
 
 - [__http__](https://github.com/core-haxe/http) - flexible http client supporting different http providers
 - [__rest__](https://github.com/core-haxe/rest) - rest client supporting fully typed rest operations
-- [__json-rpc__](https://github.com/core-haxe/json-rpc) - json rpc client supporting fully typed rest operations
 
 <h4>Messaging</h4>
 
 - __rabbitmq__ - rabbitmq for all relevant haxe targets
 - [__queues-core__](https://github.com/core-haxe/queues-core) - pluggable queue abstraction
+- [__json-rpc__](https://github.com/core-haxe/json-rpc) - json rpc client supporting fully typed rest operations
 
 <h4>Services</h4>
 
