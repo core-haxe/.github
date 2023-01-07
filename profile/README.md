@@ -19,9 +19,9 @@ _Note: all these repos are currently considered "work in progress"_
 
 <h4>Messaging</h4>
 
-- [__rabbitmq__](https://github.com/core-haxe/rabbitmq) - rabbitmq for all relevant haxe targets
 - [__queues-core__](https://github.com/core-haxe/queues-core) - pluggable queue abstraction
   - [__queues-rabbitmq__](https://github.com/core-haxe/queues-rabbitmq) - rabbitmq queue plugin for [__queues-core__](https://github.com/core-haxe/queues-core)
+    - [__rabbitmq__](https://github.com/core-haxe/rabbitmq) - rabbitmq for all relevant haxe targets
 - [__json-rpc__](https://github.com/core-haxe/json-rpc) - json rpc client supporting fully typed rest operations
 
 <h4>Services</h4>
