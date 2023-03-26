@@ -36,3 +36,19 @@ _Note: all these repos are currently considered "work in progress"_
 
 - [__logging__](https://github.com/core-haxe/logging) - flexible logging framework supporting various "adaptors"
 - [__promises__](https://github.com/core-haxe/promises) - promise lib (literally a typedef for thenshim currently)
+
+---
+
+<details>
+  <summary>Builld Status</summary>
+  <br/>
+  
+  | Repository | Builld Status |
+  |---------|--------|
+  | [__db-core__](https://github.com/core-haxe/db-core) | <a href="https://github.com/core-haxe/db-core/actions/workflows/nodejs.yaml"><img src="https://github.com/core-haxe/db-core/actions/workflows/nodejs.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/db-core/actions/workflows/hl.yaml"><img src="https://github.com/core-haxe/db-core/actions/workflows/hl.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/db-core/actions/workflows/hxcpp.yaml"><img src="https://github.com/core-haxe/db-core/actions/workflows/hxcpp.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/db-core/actions/workflows/neko.yaml"><img src="https://github.com/core-haxe/db-core/actions/workflows/neko.yaml/badge.svg"> |
+  | [__sqlite3__](https://github.com/core-haxe/sqlite3) | <a href="https://github.com/core-haxe/sqlite3/actions/workflows/nodejs.yaml"><img src="https://github.com/core-haxe/sqlite3/actions/workflows/nodejs.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/sqlite3/actions/workflows/hl.yaml"><img src="https://github.com/core-haxe/sqlite3/actions/workflows/hl.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/sqlite3/actions/workflows/hxcpp.yaml"><img src="https://github.com/core-haxe/sqlite3/actions/workflows/hxcpp.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/sqlite3/actions/workflows/neko.yaml"><img src="https://github.com/core-haxe/sqlite3/actions/workflows/neko.yaml/badge.svg"> |
+  | [__libsqlite3__](https://github.com/core-haxe/libsqlite3) | <a href="https://github.com/core-haxe/libsqlite3/actions/workflows/windows.yaml"><img src="https://github.com/core-haxe/libsqlite3/actions/workflows/windows.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/libsqlite3/actions/workflows/ubuntu.yaml"><img src="https://github.com/core-haxe/libsqlite3/actions/workflows/ubuntu.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/libsqlite3/actions/workflows/mac.yaml"><img src="https://github.com/core-haxe/libsqlite3/actions/workflows/mac.yaml/badge.svg"> |
+  | [__http__](https://github.com/core-haxe/http) | <a href="https://github.com/core-haxe/http/actions/workflows/nodejs.yaml"><img src="https://github.com/core-haxe/http/actions/workflows/nodejs.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/http/actions/workflows/hl.yaml"><img src="https://github.com/core-haxe/http/actions/workflows/hl.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/http/actions/workflows/hxcpp.yaml"><img src="https://github.com/core-haxe/http/actions/workflows/hxcpp.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/http/actions/workflows/neko.yaml"><img src="https://github.com/core-haxe/http/actions/workflows/neko.yaml/badge.svg"> |
+  | [__rest__](https://github.com/core-haxe/rest) | <a href="https://github.com/core-haxe/rest/actions/workflows/nodejs.yaml"><img src="https://github.com/core-haxe/rest/actions/workflows/nodejs.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/rest/actions/workflows/hl.yaml"><img src="https://github.com/core-haxe/rest/actions/workflows/hl.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/rest/actions/workflows/hxcpp.yaml"><img src="https://github.com/core-haxe/rest/actions/workflows/hxcpp.yaml/badge.svg">&nbsp;<a href="https://github.com/core-haxe/rest/actions/workflows/neko.yaml"><img src="https://github.com/core-haxe/rest/actions/workflows/neko.yaml/badge.svg"> |
+
+</details>
