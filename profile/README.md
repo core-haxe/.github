@@ -40,7 +40,71 @@ _Note: all these repos are currently considered "work in progress"_
 ---
 
 <details>
-  <summary>Builld Status</summary>
+  <summary>Update / Install Scripts</summary><blockquote>
+  <br/>
+  
+  <details>
+    <summary>Windows (Batch)</summary><blockquote>
+    <br/>
+    
+```    
+@echo off
+
+echo.
+echo updating all core haxe libs
+echo.
+
+call :install_or_update_lib promises, utils
+call :install_or_update_lib logging, utils
+
+call :install_or_update_lib db-core, db
+call :install_or_update_lib db-sqlite, db
+call :install_or_update_lib sqlite3, db
+call :install_or_update_lib libsqlite3, db
+call :install_or_update_lib db-mysql, db
+call :install_or_update_lib mysql, db
+call :install_or_update_lib entities, db
+
+call :install_or_update_lib http, comms
+call :install_or_update_lib rest, comms
+
+call :install_or_update_lib queues-core, messaging
+call :install_or_update_lib queues-rabbitmq, messaging
+call :install_or_update_lib rabbitmq, messaging
+call :install_or_update_lib json-rpc, messaging
+
+call :install_or_update_lib libgit2, misc
+
+exit /B %ERRORLEVEL%
+
+:install_or_update_lib
+echo --------------------------------------------------------------------
+echo core\%~1
+echo --------------------------------------------------------------------
+if exist %~2\%~1 (
+  echo updating %~2\%~1  
+  cd %~2\%~1
+  git pull
+  cd ..\..
+) else (
+  echo creating %~2\%~1
+  if not exist "%~2" mkdir %~2
+  cd %~2
+  git clone https://github.com/core-haxe/%~1 && cd %~1
+  haxelib dev %~1 .
+  cd ..\..
+)
+echo.
+exit /B 0
+```
+
+  </blockquote></details>  
+</blockquote></details>
+
+---
+
+<details>
+  <summary>Build Status</summary>
   <br/>
   
   | Repository | Builld Status |
