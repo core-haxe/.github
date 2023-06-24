@@ -32,6 +32,10 @@ _Note: all these repos are currently considered "work in progress"_
 
 - [__libgit2__](https://github.com/core-haxe/libgit2) - libgit2 externs for hxcpp
 
+<h4>Common</h4>
+
+- [__serializers__](https://github.com/core-haxe/serializers) - serializers
+
 <h4>Utilities</h4>
 
 - [__logging__](https://github.com/core-haxe/logging) - flexible logging framework supporting various "adaptors"
@@ -53,6 +57,8 @@ _Note: all these repos are currently considered "work in progress"_
 echo.
 echo updating all core haxe libs
 echo.
+
+call :install_or_update_lib serializers, common
 
 call :install_or_update_lib promises, utils
 call :install_or_update_lib logging, utils
@@ -131,6 +137,8 @@ install_or_update_lib() {
   fi  
   echo  
 }
+
+install_or_update_lib serializers common
 
 install_or_update_lib promises utils
 install_or_update_lib logging utils
