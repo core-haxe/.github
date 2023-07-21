@@ -27,11 +27,12 @@ _Note: all these repos are currently considered "work in progress"_
 <h4>ESB (Heavily work-in-progress)</h4>
 
 - [__esb__](https://github.com/core-haxe/esb) - enterprise service bus (nodejs only currently)
-  - __Bundles__
+  - __Core Bundles__
     - [__esb-bundle-files__](https://github.com/core-haxe/esb-bundle-files)
     - [__esb-bundle-http__](https://github.com/core-haxe/esb-bundle-http)
     - [__esb-bundle-ftp__](https://github.com/core-haxe/esb-bundle-ftp)
     - [__esb-bundle-sqlite__](https://github.com/core-haxe/esb-bundle-sqlite)
+  - __Additional Bundles__
     - [__esb-bundle-chatgpt__](https://github.com/core-haxe/esb-bundle-chatgpt)
     - [__esb-bundle-deepl__](https://github.com/core-haxe/esb-bundle-deepl)
   - __Extras__
