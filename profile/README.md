@@ -24,7 +24,7 @@ _Note: all these repos are currently considered "work in progress"_
     - [__rabbitmq__](https://github.com/core-haxe/rabbitmq) - rabbitmq for all relevant haxe targets
 - [__json-rpc__](https://github.com/core-haxe/json-rpc) - json rpc client supporting fully typed rest operations
 
-<h4>ESB</h4>
+<h4>ESB (Heavily work-in-progress)</h4>
 
 - [__esb__](https://github.com/core-haxe/esb) - enterprise service bus (nodejs only currently)
   - __Bundles__
