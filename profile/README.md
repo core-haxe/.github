@@ -16,6 +16,7 @@ _Note: all these repos are currently considered "work in progress"_
 
 - [__http__](https://github.com/core-haxe/http) - flexible http client supporting different http providers
 - [__rest__](https://github.com/core-haxe/rest) - rest client supporting fully typed rest operations
+- [__ftp__](https://github.com/core-haxe/ftp) - (s)ftp client
 
 <h4>Messaging</h4>
 
@@ -51,6 +52,7 @@ _Note: all these repos are currently considered "work in progress"_
 
 - [__logging__](https://github.com/core-haxe/logging) - flexible logging framework supporting various "adaptors"
 - [__promises__](https://github.com/core-haxe/promises) - promise lib (literally a typedef for thenshim currently)
+- [__haven__](https://github.com/core-haxe/haven) - build system
 
 ---
 
@@ -73,6 +75,7 @@ call :install_or_update_lib serializers, common
 
 call :install_or_update_lib promises, utils
 call :install_or_update_lib logging, utils
+call :install_or_update_lib haven, utils
 
 call :install_or_update_lib db-core, db
 call :install_or_update_lib db-sqlite, db
@@ -84,6 +87,7 @@ call :install_or_update_lib entities, db
 
 call :install_or_update_lib http, comms
 call :install_or_update_lib rest, comms
+call :install_or_update_lib ftp, comms
 
 call :install_or_update_lib queues-core, messaging
 call :install_or_update_lib queues-rabbitmq, messaging
@@ -153,6 +157,7 @@ install_or_update_lib serializers common
 
 install_or_update_lib promises utils
 install_or_update_lib logging utils
+install_or_update_lib haven utils
 
 install_or_update_lib db-core db
 install_or_update_lib db-sqlite db
@@ -164,6 +169,7 @@ install_or_update_lib entities db
 
 install_or_update_lib http comms
 install_or_update_lib rest comms
+install_or_update_lib ftp comms
 
 install_or_update_lib queues-core messaging
 install_or_update_lib queues-rabbitmq messaging
