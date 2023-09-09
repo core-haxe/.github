@@ -47,6 +47,7 @@ _Note: all these repos are currently considered "work in progress"_
 <h4>Common</h4>
 
 - [__serializers__](https://github.com/core-haxe/serializers) - serializers
+- [__xml2object__](https://github.com/core-haxe/xml2object) - xml2object
 
 <h4>Utilities</h4>
 
