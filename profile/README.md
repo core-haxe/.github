@@ -35,6 +35,7 @@ _Note: all these repos are currently considered "work in progress"_
     - [__esb-bundle-sqlite__](https://github.com/core-haxe/esb-bundle-sqlite)
   - __Core Body Bundles__
     - [__esb-bundle-xlsx__](https://github.com/core-haxe/esb-bundle-xlsx)
+    - [__esb-bundle-zip__](https://github.com/core-haxe/esb-bundle-zip)
   - __Additional Bundles__
     - [__esb-bundle-chatgpt__](https://github.com/core-haxe/esb-bundle-chatgpt)
     - [__esb-bundle-deepl__](https://github.com/core-haxe/esb-bundle-deepl)
