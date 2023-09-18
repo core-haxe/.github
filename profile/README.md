@@ -33,6 +33,7 @@ _Note: all these repos are currently considered "work in progress"_
     - [__esb-bundle-http__](https://github.com/core-haxe/esb-bundle-http)
     - [__esb-bundle-ftp__](https://github.com/core-haxe/esb-bundle-ftp)
     - [__esb-bundle-sqlite__](https://github.com/core-haxe/esb-bundle-sqlite)
+    - [__esb-bundle-cron__](https://github.com/core-haxe/esb-bundle-cron)
   - __Core Body Bundles__
     - [__esb-bundle-xlsx__](https://github.com/core-haxe/esb-bundle-xlsx)
     - [__esb-bundle-zip__](https://github.com/core-haxe/esb-bundle-zip)
