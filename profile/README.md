@@ -94,6 +94,7 @@ call :install_or_update_lib entities, db
 call :install_or_update_lib http, comms
 call :install_or_update_lib rest, comms
 call :install_or_update_lib ftp, comms
+call :install_or_update_lib ws, comms
 
 call :install_or_update_lib queues-core, messaging
 call :install_or_update_lib queues-rabbitmq, messaging
@@ -176,6 +177,7 @@ install_or_update_lib entities db
 install_or_update_lib http comms
 install_or_update_lib rest comms
 install_or_update_lib ftp comms
+install_or_update_lib ws comms
 
 install_or_update_lib queues-core messaging
 install_or_update_lib queues-rabbitmq messaging
