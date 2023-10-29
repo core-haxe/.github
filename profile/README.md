@@ -17,7 +17,7 @@ _Note: all these repos are currently considered "work in progress"_
 - [__http__](https://github.com/core-haxe/http) - flexible http client supporting different http providers
 - [__rest__](https://github.com/core-haxe/rest) - rest client supporting fully typed rest operations
 - [__ftp__](https://github.com/core-haxe/ftp) - (s)ftp client
-- [__ws__](https://github.com/core-haxe/ws) - web socket client / server for all relevant haxe targets
+- [__websockets__](https://github.com/core-haxe/websockets) - web socket client / server for all relevant haxe targets
 
 <h4>Messaging</h4>
 
@@ -94,7 +94,7 @@ call :install_or_update_lib entities, db
 call :install_or_update_lib http, comms
 call :install_or_update_lib rest, comms
 call :install_or_update_lib ftp, comms
-call :install_or_update_lib ws, comms
+call :install_or_update_lib websockets, comms
 
 call :install_or_update_lib queues-core, messaging
 call :install_or_update_lib queues-rabbitmq, messaging
@@ -177,7 +177,7 @@ install_or_update_lib entities db
 install_or_update_lib http comms
 install_or_update_lib rest comms
 install_or_update_lib ftp comms
-install_or_update_lib ws comms
+install_or_update_lib websockets comms
 
 install_or_update_lib queues-core messaging
 install_or_update_lib queues-rabbitmq messaging
