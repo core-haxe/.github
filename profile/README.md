@@ -17,6 +17,7 @@ _Note: all these repos are currently considered "work in progress"_
 - [__http__](https://github.com/core-haxe/http) - flexible http client supporting different http providers
 - [__rest__](https://github.com/core-haxe/rest) - rest client supporting fully typed rest operations
 - [__ftp__](https://github.com/core-haxe/ftp) - (s)ftp client
+- [__ws__](https://github.com/core-haxe/ws) - web socket client / server for all relevant haxe targets
 
 <h4>Messaging</h4>
 
