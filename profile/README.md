@@ -10,6 +10,7 @@ _Note: all these repos are currently considered "work in progress"_
       - [__libsqlite3__](https://github.com/core-haxe/libsqlite3) - sqlite3 externs for hxcpp
   - [__db-mysql__](https://github.com/core-haxe/db-mysql) - mysql database plugin for [__db-core__](https://github.com/core-haxe/db-core)
     - [__mysql__](https://github.com/core-haxe/mysql) - mysql for all relevant haxe targets
+      - [__libmysqlclient__](https://github.com/core-haxe/libmysqlclient) - mysqlclient externs for hxcpp
 - [__entities__](https://github.com/core-haxe/entities) - entity database system for ORM
 
 <h4>Communication</h4>
