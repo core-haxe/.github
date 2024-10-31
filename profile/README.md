@@ -27,25 +27,6 @@ _Note: all these repos are currently considered "work in progress"_
     - [__rabbitmq__](https://github.com/core-haxe/rabbitmq) - rabbitmq for all relevant haxe targets
 - [__json-rpc__](https://github.com/core-haxe/json-rpc) - json rpc client supporting fully typed rest operations
 
-<h4>ESB (Heavily work-in-progress)</h4>
-
-- [__esb__](https://github.com/core-haxe/esb) - enterprise service bus (nodejs only currently)
-  - __Core Bundles__
-    - [__esb-bundle-files__](https://github.com/core-haxe/esb-bundle-files)
-    - [__esb-bundle-http__](https://github.com/core-haxe/esb-bundle-http)
-    - [__esb-bundle-ftp__](https://github.com/core-haxe/esb-bundle-ftp)
-    - [__esb-bundle-sqlite__](https://github.com/core-haxe/esb-bundle-sqlite)
-    - [__esb-bundle-cron__](https://github.com/core-haxe/esb-bundle-cron)
-  - __Core Body Bundles__
-    - [__esb-bundle-xlsx__](https://github.com/core-haxe/esb-bundle-xlsx)
-    - [__esb-bundle-zip__](https://github.com/core-haxe/esb-bundle-zip)
-  - __Additional Bundles__
-    - [__esb-bundle-chatgpt__](https://github.com/core-haxe/esb-bundle-chatgpt)
-    - [__esb-bundle-deepl__](https://github.com/core-haxe/esb-bundle-deepl)
-  - __Extras__
-    - [__esb-hpel__](https://github.com/core-haxe/esb-hpel) - haxe process expression language (route builder DSL)
-  - __Examples__
-
 <h4>Misc</h4>
 
 - [__libgit2__](https://github.com/core-haxe/libgit2) - libgit2 externs for hxcpp
