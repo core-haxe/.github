@@ -11,7 +11,7 @@ _Note: all these repos are currently considered "work in progress"_
   - [__db-mysql__](https://github.com/core-haxe/db-mysql) - mysql database plugin for [__db-core__](https://github.com/core-haxe/db-core)
     - [__mysql__](https://github.com/core-haxe/mysql) - mysql for all relevant haxe targets
       - [__libmysqlclient__](https://github.com/core-haxe/libmysqlclient) - mysqlclient externs for hxcpp
-- [__entities__](https://github.com/core-haxe/entities) - entity database system for ORM
+- [__entities2__](https://github.com/core-haxe/entities2) - entity database system for ORM
 
 <h4>Communication</h4>
 
