@@ -35,6 +35,7 @@ _Note: all these repos are currently considered "work in progress"_
 <h4>Common</h4>
 
 - [__serializers__](https://github.com/core-haxe/serializers) - serializers
+- [__observable__](https://github.com/core-haxe/observable) - observable
 - [__xml2object__](https://github.com/core-haxe/xml2object) - xml2object
 
 <h4>Utilities</h4>
@@ -61,6 +62,7 @@ echo updating all core haxe libs
 echo.
 
 call :install_or_update_lib serializers, common
+call :install_or_update_lib observable, common
 
 call :install_or_update_lib promises, utils
 call :install_or_update_lib logging, utils
